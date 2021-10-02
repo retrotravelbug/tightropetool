@@ -1,0 +1,24 @@
+- title: Adolescent Tightrope
+  url: /adolescent tighrope
+  page: /adolescent tightrope.html
+  footer: true
+
+- title: Practitioner Tightrope
+  url: /practitioner tightrope
+  page: /practitioner tightrope.html
+  footer: true
+
+- title: Other Resources
+  url: /other resources
+  page: /other resources.html
+  footer: true
+
+- title: About
+  url: /about
+  page: /about.html
+  footer: true
+
+- title: Contact
+  url: /contact
+  page: /contact.html
+  footer: false
