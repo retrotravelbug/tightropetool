@@ -8,9 +8,9 @@
   page: /practitioner tightrope.html
   footer: true
 
-- title: Other Resources
-  url: /other resources
-  page: /other resources.html
+- title: Publications
+  url: /publications
+  page: /publications.html
   footer: true
 
 - title: About
