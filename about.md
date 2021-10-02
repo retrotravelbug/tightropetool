@@ -1,7 +1,7 @@
 ---
 title: About
 layout: default
-banner-image: otago-coast.jpg
+banner-image: Beach_logs.jpg
 ---
 
 # About the Tightrope
