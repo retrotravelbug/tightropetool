@@ -1,7 +1,7 @@
 ---
 title: About
 layout: default
-banner-image: Beach_logs.jpg
+banner-image: Beach_logs.png
 ---
 
 # About the Tightrope
