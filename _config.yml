@@ -1,0 +1,6 @@
+title: "Tightrope"
+
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
