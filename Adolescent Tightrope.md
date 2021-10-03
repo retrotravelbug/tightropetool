@@ -12,12 +12,12 @@ Want to engage young people in open discussions about their circumstances and fu
 
 Regardless of a young person’s presenting needs this toolkit offers a holistic approach in social work, youth offending, substance misuse work, mental health or wellbeing support.
 
-Supporting current approaches of trauma informed practice, Signs of Safety®, GoodLives, Desistance Theory and Motivational Interviewing the toolkit is based on an analogy that being a teenager can be like walking on a Tightrope and supports an open discussion to reflect on key areas within assessments and plans:
+Supporting current approaches of trauma informed practice, Signs of Safety®, GoodLives, Desistance Theory and Motivational Interviewing the toolkit is based on an analogy that being a teenager and moving into adulthood can be like walking on a Tightrope and supports an open discussion to reflect on key areas within assessments and plans:
 
 -	Central values – the intentions and motives of past or future behaviour
 -	What might falling off look like – the behavior we are worried might happen in the future
 -	Future goals and aspirations
--	Protective foundations – times of success and exceptions to harm
+-	Protective foundations – times of success and exceptions to harm that keep the foundation under the tightrope stable
 -	Muddy Path – experiences in the past that makes things more wobbly now
 -	Steps up  – current worries or complicating factors making the risk (ladder) higher
 -	Balancing Strengths – individual strengths to help manage the situation
