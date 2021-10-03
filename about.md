@@ -15,7 +15,7 @@ All products and materials are developed and delivered by Dr Evans, unless state
 [profile]: http://uk.linkedin.com/pub/roberta-evans/25/b37/907
 
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
-[Tightrope]: /adolescent tightrope.html
+[Tightrope]: /adolescent tightrope.md
 
 > "A well developed sense of humour is the pole that adds balance to your steps as you walk the tightrope of life."
 > <small>William Arthur Ward</small>
