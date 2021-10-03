@@ -55,13 +55,23 @@ There is a [workbook] available to download that includes the following:
 <small>This video outlines the aims and explains the developmental theory underpinning the Tightrope</small>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GRhAgx1uSL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Extras
+# Extras
 
 A brief [sample workbook] of the tightrope is also available
 
 For Youth Justice practitioners an Out of Court Disposal template has been created and is available here: [OOCD Screening Template 2019.pdf]
 
-The original use of the tightrope analogy was with parents, see the home-made workbook here: [Circus Act]
+## Workbook for parents
+
+The original use of the tightrope analogy was with parents whose children were open to the Youth Justice service. Using research about supporting parents of adolescents, a basic homemade workbook was created called the [Circus Act] that supports parents to work through exercises that are based on the circus:
+- balancing act, which uses the tightrope analogy and explores the young person's strengths and how the parent provides a safety net that is not too lose or too tight
+- backstage - chronology direct work tool that recognises that the young person and parent may have different perceptions about the same family experiences
+- hall of mirrors to understand the parent's own experiences of being parented
+- jugglig act to identify the number of tasks and responsibilities the parent is having to juggle and what they could let go
+- seal act to understand what stress and pressure the young person is faced with
+- lion tamer to support boundaries and rule setting, with negotiation
+- knife throwing to support fair and balanced arguments
+- Magicians tricks, the magic wand of parenting - having fun and special time with their child
 
 For more information email: [tightropetool@gmail.com](mailto:tightropetool@gmail.com)
 
