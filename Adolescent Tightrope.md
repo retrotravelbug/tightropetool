@@ -57,7 +57,7 @@ There is a [workbook] available to download that includes the following:
 
 ## Extras
 
-A brief sample of the [tightrope] is also available
+A brief [sample workbook] of the tightrope is also available
 
 For Youth Justice practitioners an Out of Court Disposal template has been created and is available here: [OOCD Screening Template 2019.pdf]
 
@@ -66,7 +66,7 @@ The original use of the tightrope analogy was with parents, see the home-made wo
 For more information email: [tightropetool@gmail.com](mailto:tightropetool@gmail.com)
 
 [Amazon]: https://www.amazon.co.uk/Tightrope-Toolkit-Dr-Roberta-Evans/dp/1999908007/ref=sr_1_1?ie=UTF8&qid=1548973729&sr=8-1&keywords=tightrope+evans
-[tightrope]: /downloads/tightropemodel.pdf
+[sample workbook]: /downloads/tightropemodel.pdf
 [OOCD Screening Template 2019.pdf]: /downloads/OOCD%20Screening%20Tightrope%202019.pdf
 [workbook]: /downloads/Adolescent%20Tightrope.pdf
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
