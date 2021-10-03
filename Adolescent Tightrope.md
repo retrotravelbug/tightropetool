@@ -24,7 +24,7 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 -	Safety Net – those who support and help now
 -	Steps Down – actions needed / planning for future goals and safe ground
 
-There is a workbook [guidance] available to download that includes the following:
+There is a [workbook] available to download that includes the following:
 -	an introduction to the analogy and how it can be applied within risk assessments
 -	background to the development, use in practice and testimonials from practitioners and young people during the pilot
 - outlines the specialist fields that overlap to support a holistic model for adolescents and provides a summary of the interviewing methods and practice models that are compatible with the tight rope
@@ -68,8 +68,8 @@ For more information email: [tightropetool@gmail.com](mailto:tightropetool@gmail
 [Amazon]: https://www.amazon.co.uk/Tightrope-Toolkit-Dr-Roberta-Evans/dp/1999908007/ref=sr_1_1?ie=UTF8&qid=1548973729&sr=8-1&keywords=tightrope+evans
 [tightrope]: /downloads/tightropemodel.pdf
 [OOCD Screening Template 2019.pdf]: /downloads/OOCD%20Screening%20Tightrope%202019.pdf
-[guidance]: /downloads/Adolescent%20Tightrope.pdf
+[workbook]: /downloads/Adolescent%20Tightrope.pdf
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
 
-> "There is nothing in a caterpillar that tells you it's going to be a butterfly."
-> <small>Richard Buckminster Fuller</small>
+> "To be left alone on the tightrope of youthful unknowing is to experience the excruciating beauty of full freedom and the threat of eternal indecision."
+> <small>Maya Angelou</small>
