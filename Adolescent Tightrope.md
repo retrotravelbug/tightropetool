@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Adolescent Tightrope
 layout: page
 banner-image: Petrified.png
 ---
