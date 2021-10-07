@@ -6,7 +6,7 @@ banner-image: Bushy-trees.png
 
 # Workbook
 
-The Practitioner Tightrope is an evolution of the original Adolescent version. This tool recognises the pressures created by the type of work and environmental factors that can increase the risk of burnout.  
+The [Practitioner Tightrope] is an evolution of the original Adolescent version. This tool recognises the pressures created by the type of work and environmental factors that can increase the risk of burnout.  
 
 The aim is to support practitioner resilience through reflection discussions. Working around the same areas of the tightrope analogy the discussion can consider:
 
@@ -34,6 +34,8 @@ The materials in the workbook can be used in a variety of ways:
 -	As part of an appraisal process or workforce development planning
 -	When there is a dip in professional performance to draw on previous good practice and identify any barriers to getting the worker back to previous performance
 -	As a group work or training exercise for practitioners to understand the different elements of professional practice.
+
+[Practitioner Tightrope]: /downloads/Practitioner%20Tightrope%20-%202021.pdf
 
 > "The leader can never close the gap between himself and the group. If he does, he is no longer what he must be. He must walk a tightrope between the consent he must win and the control he must exert"
 > <small> - Vince Lombardi</small>
