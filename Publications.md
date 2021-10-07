@@ -1,7 +1,7 @@
 ---
 title: Publications
 layout: default
-banner-image: Beach_logs.png
+banner-image: Petrified.png
 ---
 
 ## Publications
