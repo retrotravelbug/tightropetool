@@ -1,7 +1,7 @@
 ---
 title: Adolescent Tightrope
 layout: default
-banner-image: Petrified.jpeg
+banner-image: Reflection.jpeg
 ---
 
 # Adolescent Tightrope <small>toolkit, videos and extras</small>
