@@ -1,7 +1,7 @@
 ---
 title: practitioner tightrope
 layout: default
-banner-image: Bushy-trees.png
+banner-image: Bushy-trees.jpeg
 ---
 
 # Workbook
