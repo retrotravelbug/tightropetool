@@ -38,4 +38,4 @@ The materials in the workbook can be used in a variety of ways:
 [Practitioner Tightrope]: /downloads/Practitioner%20Tightrope%20-%202021.pdf
 
 > "The leader can never close the gap between himself and the group. If he does, he is no longer what he must be. He must walk a tightrope between the consent he must win and the control he must exert"
-> <small> - Vince Lombardi</small>
+> <small>Vince Lombardi</small>
