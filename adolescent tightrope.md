@@ -24,14 +24,16 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 -	Safety Net – those who support and help now
 -	Steps Down – actions needed / planning for future goals and safe ground
 
-## Research led prompts
-The [toolkit] is available to download includes the following:
+## Evidence based direct work tool
+The [toolkit] is available to download and includes the following:
 -	an introduction to the analogy and how it can be applied within risk assessments
 -	background to the development, use in practice and testimonials from practitioners and young people during the pilot
 - outlines the specialist fields that overlap to support a holistic model for adolescents and provides a summary of the interviewing methods and practice models that are compatible with the tight rope
 - templates to record a summary of your assessment and prompt cards that you can print, cut out, then laminate (or print on card) to use in direct work. Each card is listed with references to provide more information about why that factor was chosen.  
 - guidance to practitioners about the role of the worker, factors to consider in application (age, culture, and gender) and how to evaluate progress or impact of the tool
 - a full list of references are provided
+
+## Reviews <small> - from practitioners</small>
 
 > "I got more in that tightrope in one session than I’d done in 10 weeks working with the young person"  
 > <small>Wandsworth Locality Youth Work Manager (working with CSE and gangs)</small>
