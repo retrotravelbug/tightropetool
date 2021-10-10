@@ -10,7 +10,7 @@ banner-image: Petrified.png
 
 Want to engage young people in open discussions about their circumstances and future goals?
 
-Regardless of a young person’s presenting needs this toolkit offers a holistic approach in social work, youth offending, substance misuse work, mental health or wellbeing support.
+Regardless of a young person’s presenting needs this Adolescent Tightrope [toolkit] offers a holistic approach in social work, youth offending, substance misuse work, mental health or wellbeing support.
 
 Supporting current approaches of trauma informed practice, Signs of Safety®, GoodLives, Desistance Theory and Motivational Interviewing the toolkit is based on an analogy that being a teenager and moving into adulthood can be like walking on a Tightrope and supports an open discussion to reflect on key areas within assessments and plans:
 
@@ -24,12 +24,13 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 -	Safety Net – those who support and help now
 -	Steps Down – actions needed / planning for future goals and safe ground
 
-There is a [workbook] available to download that includes the following:
+## Research led prompts
+The [toolkit] is available to download includes the following:
 -	an introduction to the analogy and how it can be applied within risk assessments
 -	background to the development, use in practice and testimonials from practitioners and young people during the pilot
 - outlines the specialist fields that overlap to support a holistic model for adolescents and provides a summary of the interviewing methods and practice models that are compatible with the tight rope
-– includes templates to record a summary of your assessment and presents a detailed breakdown of each section of the tightrope, including the cards that you can print, cut out, then laminate or print on card to use in direct work. Each card is listed with references to provide more information about why that factor was chosen.  
-- provides guidance to practitioners about the role of the worker, factors to consider in application (age, culture, and gender) and how to evaluate progress or impact of the tool
+- templates to record a summary of your assessment and prompt cards that you can print, cut out, then laminate (or print on card) to use in direct work. Each card is listed with references to provide more information about why that factor was chosen.  
+- guidance to practitioners about the role of the worker, factors to consider in application (age, culture, and gender) and how to evaluate progress or impact of the tool
 - a full list of references are provided
 
 > "I got more in that tightrope in one session than I’d done in 10 weeks working with the young person"  
@@ -78,7 +79,7 @@ For more information email: [tightropetool@gmail.com](mailto:tightropetool@gmail
 [Amazon]: https://www.amazon.co.uk/Tightrope-Toolkit-Dr-Roberta-Evans/dp/1999908007/ref=sr_1_1?ie=UTF8&qid=1548973729&sr=8-1&keywords=tightrope+evans
 [sample workbook]: /downloads/tightropemodel.pdf
 [OOCD Screening Template 2019.pdf]: /downloads/OOCD%20Screening%20Tightrope%202019.pdf
-[workbook]: /downloads/Adolescent%20Tightrope.pdf
+[toolkit]: /downloads/Adolescent%20Tightrope.pdf
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
 
 > "To be left alone on the tightrope of youthful unknowing is to experience the excruciating beauty of full freedom and the threat of eternal indecision."
