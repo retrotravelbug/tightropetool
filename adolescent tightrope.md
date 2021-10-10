@@ -81,7 +81,7 @@ For more information email: [tightropetool@gmail.com](mailto:tightropetool@gmail
 [Amazon]: https://www.amazon.co.uk/Tightrope-Toolkit-Dr-Roberta-Evans/dp/1999908007/ref=sr_1_1?ie=UTF8&qid=1548973729&sr=8-1&keywords=tightrope+evans
 [sample workbook]: /downloads/tightropemodel.pdf
 [OOCD Screening Template 2019.pdf]: /downloads/OOCD%20Screening%20Tightrope%202019.pdf
-[toolkit]: /downloads/Adolescent%20Tightrope.pdf
+[toolkit]: /downloads/ Adolescent%20Tightrope.pdf
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
 
 > "To be left alone on the tightrope of youthful unknowing is to experience the excruciating beauty of full freedom and the threat of eternal indecision."
