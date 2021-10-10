@@ -1,7 +1,7 @@
 ---
 title: Publications
 layout: default
-banner-image: Petrified.png
+banner-image: Petrified.jpeg
 ---
 
 ## Publications
