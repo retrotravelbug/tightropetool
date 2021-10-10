@@ -1,6 +1,6 @@
 ---
 title: Adolescent Tightrope
-layout: page
+layout: default
 banner-image: Petrified.png
 ---
 
