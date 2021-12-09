@@ -60,8 +60,6 @@ The [toolkit] is available to download and includes the following:
 
 # Extras
 
-A brief [sample workbook] of the tightrope is also available
-
 For Youth Justice practitioners an Out of Court Disposal template has been created and is available here: [OOCD Screening Template 2019.pdf]
 
 ## Workbook for parents
