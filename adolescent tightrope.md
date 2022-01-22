@@ -10,7 +10,7 @@ banner-image: Reflection.jpeg
 
 Want to engage young people in open discussions about their circumstances and future goals?
 
-Regardless of a young person’s presenting needs this Adolescent Tightrope [toolkit] offers a holistic approach in social work, youth offending, substance misuse work, mental health or wellbeing support.
+Regardless of a young person’s presenting needs the Adolescent Tightrope offers a holistic approach in practice
 
 Supporting current approaches of trauma informed practice, Signs of Safety®, GoodLives, Desistance Theory and Motivational Interviewing the toolkit is based on an analogy that being a teenager and moving into adulthood can be like walking on a Tightrope and supports an open discussion to reflect on key areas within assessments and plans:
 
@@ -19,13 +19,15 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 -	Future goals and aspirations
 -	Protective foundations – times of success and exceptions to harm that keep the foundation under the tightrope stable
 -	Muddy Path – experiences in the past that makes things more wobbly now
--	Steps up  – current worries or complicating factors making the risk (ladder) higher
 -	Balancing Strengths – individual strengths to help manage the situation
+-	Steps up  – current worries or complicating factors making the risk (ladder) higher
 -	Safety Net – those who support and help now
 -	Steps Down – actions needed / planning for future goals and safe ground
 
+# [Download here]
+
 ## Evidence based direct work tool
-The [toolkit] is available to download and includes the following:
+The toolkit is drawn from research on adolescent risks (youth offending,:
 -	an introduction to the analogy and how it can be applied within risk assessments
 -	background to the development, use in practice and testimonials from practitioners and young people during the pilot
 - outlines the specialist fields that overlap to support a holistic model for adolescents and provides a summary of the interviewing methods and practice models that are compatible with the tight rope
@@ -48,7 +50,7 @@ The [toolkit] is available to download and includes the following:
 > <small>Bail and Remand Officer in Hammersmith and Fulham</small>
 
 
-# Video guides 
+# Extras
 
 ## Tightrope explained <small> - for young people</small>
 
@@ -65,9 +67,14 @@ The [toolkit] is available to download and includes the following:
 <small>This video is more detailed about adolescent development and how to respond using emotional development and transactional analysis</small>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MG5CC1xmEHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Extras
-
+  
+## Out of court format
+  
 For Youth Justice practitioners an Out of Court Disposal template has been created and is available here: [OOCD Screening Template 2019.pdf]
+  
+## Printable cards
+
+The cards in the guidance workbook can be printed from the workbook or collectively from here: [printable cards]. You can print off, cut out and laminate each card, or page of cards. There are also mats that have all the cards together. 
 
 ## Workbook for parents
 
@@ -83,10 +90,9 @@ The original use of the tightrope analogy was with parents whose children were o
 
 For more information email: [tightropetool@gmail.com](mailto:tightropetool@gmail.com)
 
-[Amazon]: https://www.amazon.co.uk/Tightrope-Toolkit-Dr-Roberta-Evans/dp/1999908007/ref=sr_1_1?ie=UTF8&qid=1548973729&sr=8-1&keywords=tightrope+evans
+[download here]: /downloads/Adolescent%20Tightrope%202022.pdf
 [sample workbook]: /downloads/tightropemodel.pdf
 [OOCD Screening Template 2019.pdf]: /downloads/OOCD%20Screening%20Tightrope%202019.pdf
-[toolkit]: /downloads/Adolescent%20Tightrope%202022.pdf
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
 
 > "To be left alone on the tightrope of youthful unknowing is to experience the excruciating beauty of full freedom and the threat of eternal indecision."
