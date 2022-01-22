@@ -24,7 +24,7 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 -	Safety Net – those who support and help now
 -	Steps Down – actions needed / planning for future goals and safe ground
 
-# [Download Adolescent Tightrope]
+## [Download Adolescent Tightrope]
 
 ## Evidence based direct work tool
 The toolkit is drawn from research on adolescent risks (youth offending, self-harm, substance misuse and exploitation) and research on resilience and social capital. The toolkit includes:
@@ -75,7 +75,7 @@ For Youth Justice practitioners an Out of Court Disposal template has been creat
   
 ## Printable cards
 
-The cards in the guidance workbook can be printed from the workbook or collectively from here: [printable cards]. You can print off, cut out and laminate each card, or page of cards. There are also mats that have all the cards from each area together. 
+The cards in the guidance workbook can be printed from the workbook or collectively from here: [printable cards] so you can print off, cut out and laminate each card, or page of cards. There are also mats that have all the cards from each area together. 
 
 ## Workbook for parents
 
