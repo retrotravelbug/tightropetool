@@ -24,15 +24,16 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 -	Safety Net – those who support and help now
 -	Steps Down – actions needed / planning for future goals and safe ground
 
-# [Download here]
+# [Download Adolescent Tightrope]
 
 ## Evidence based direct work tool
-The toolkit is drawn from research on adolescent risks (youth offending,:
--	an introduction to the analogy and how it can be applied within risk assessments
--	background to the development, use in practice and testimonials from practitioners and young people during the pilot
-- outlines the specialist fields that overlap to support a holistic model for adolescents and provides a summary of the interviewing methods and practice models that are compatible with the tight rope
-- templates to record a summary of your assessment and prompt cards that you can print, cut out, then laminate (or print on card) to use in direct work. Each card is listed with references to provide more information about why that factor was chosen.  
-- guidance to practitioners about the role of the worker, factors to consider in application (age, culture, and gender) and how to evaluate progress or impact of the tool
+The toolkit is drawn from research on adolescent risks (youth offending, self-harm, substance misuse and exploitation) and research on resilience and social capital. The toolkit includes:
+-	an introduction to the analogy and how it can be applied to assess risk and resilience
+- outlines the changes that occur during adolescence and the impact of trauma on development
+- provides templates to record a summary of your assessment with an outline of the various models that support or align with the model
+- suggestions for questions to ask and prompt cards that you can print and cut out to use in direct work (the set of cards can be downloaded below)
+- each prompt card is supported by references to show why that factor was included  
+- guidance to practitioners about the role of the worker, factors to consider in application and how to evaluate progress or impact of the tool
 - a full list of references are provided
 
 ## Reviews <small> - from practitioners</small>
@@ -90,7 +91,7 @@ The original use of the tightrope analogy was with parents whose children were o
 
 For more information email: [tightropetool@gmail.com](mailto:tightropetool@gmail.com)
 
-[download here]: /downloads/Adolescent%20Tightrope%202022.pdf
+[download Adolescent Tightrope]: /downloads/Adolescent%20Tightrope%202022.pdf
 [sample workbook]: /downloads/tightropemodel.pdf
 [OOCD Screening Template 2019.pdf]: /downloads/OOCD%20Screening%20Tightrope%202019.pdf
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
