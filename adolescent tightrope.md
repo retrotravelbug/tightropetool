@@ -26,6 +26,8 @@ Supporting current approaches of trauma informed practice, Signs of Safety®, Go
 
 ## [Download Adolescent Tightrope]
 
+The latest version was uploaded 22 January 22
+
 ## Evidence based direct work tool
 The toolkit is drawn from research on adolescent risks (youth offending, self-harm, substance misuse and exploitation) and research on resilience and social capital. The toolkit includes:
 -	an introduction to the analogy and how it can be applied to assess risk and resilience
