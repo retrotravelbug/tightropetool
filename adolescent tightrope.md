@@ -74,7 +74,7 @@ For Youth Justice practitioners an Out of Court Disposal template has been creat
   
 ## Printable cards
 
-The cards in the guidance workbook can be printed from the workbook or collectively from here: [printable cards]. You can print off, cut out and laminate each card, or page of cards. There are also mats that have all the cards together. 
+The cards in the guidance workbook can be printed from the workbook or collectively from here: [printable cards]. You can print off, cut out and laminate each card, or page of cards. There are also mats that have all the cards from each area together. 
 
 ## Workbook for parents
 
@@ -94,6 +94,7 @@ For more information email: [tightropetool@gmail.com](mailto:tightropetool@gmail
 [sample workbook]: /downloads/tightropemodel.pdf
 [OOCD Screening Template 2019.pdf]: /downloads/OOCD%20Screening%20Tightrope%202019.pdf
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
+[printable cards]: /downloads/Cards.pdf
 
 > "To be left alone on the tightrope of youthful unknowing is to experience the excruciating beauty of full freedom and the threat of eternal indecision."
 > <small>Maya Angelou</small>
