@@ -8,7 +8,7 @@ banner-image: Bushy-trees.jpeg
 
 The Practitioner Tightrope is an evolution of the original Adolescent version. This tool recognises the pressures created by the type of work and environmental factors that can increase the risk of burnout.  
 
-The aim is to support practitioner resilience through reflection discussions. Working around the same areas of the tightrope analogy the discussion can consider:
+The aim is to support practitioner resilience through reflective discussions. Working around the areas of the tightrope analogy the discussion can consider:
 
   - Goals for the future
   - The values and motives of the practitioner that drives their practice
