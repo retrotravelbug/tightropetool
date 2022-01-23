@@ -15,15 +15,17 @@ The aim is to support practitioner resilience through reflection discussions. Wo
   - The warning signs of burnout (falling off)
   - Past positive experiences that provide a stable foundation for the practitioner
   - Worrying experiences that make things more wobbly
-  - Current compounding concerns and mounting pressures (steps making ladder higher)
   - Practioner's strengths to stay balanced
+  - Current compounding concerns and mounting pressures (steps making ladder higher)
   - The people or organisational features that make up the safety net
   - Identifying steps to move towards the goals
 
+## [Download Practitioner Tightrope]
+<small>Latest version uploaded 23 January 2022<small>
 
 # Evidence based prompts
 
-Similar to the Adolescent Tightrope, each of the areas of the tightrope are supported by prompts, drawn from research about professional and organisational resilience and pitfalls. 
+Similar to the Adolescent Tightrope, each of the areas of the tightrope are supported by prompts drawn from research. These draw on research and studies about professional and organisational resilience and pitfalls. 
 
 The materials in the workbook can be used in a variety of ways:
 
@@ -37,3 +39,5 @@ The materials in the workbook can be used in a variety of ways:
 
 > "The leader can never close the gap between himself and the group. If he does, he is no longer what he must be. He must walk a tightrope between the consent he must win and the control he must exert"
 > <small>Vince Lombardi</small>
+
+[download practitioner tightrope]: downloads/Practitioner%20Tightrope%202021.pdf
