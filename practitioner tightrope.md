@@ -20,9 +20,6 @@ The aim is to support practitioner resilience through reflective discussions. Wo
   - The people or organisational features that make up the safety net
   - Identifying steps to move towards the goals
 
-## [Download Practitioner Tightrope]
-<small>Latest version uploaded 23 January 2022<small>
-
 # Evidence based prompts
 
 Similar to the Adolescent Tightrope, each of the areas of the tightrope are supported by prompts drawn from research. These draw on research and studies about professional and organisational resilience and pitfalls. 
