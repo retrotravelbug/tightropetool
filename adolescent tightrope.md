@@ -92,7 +92,7 @@ The original use of the tightrope analogy was with parents whose children were o
 
 For more information email: [tightropetool@gmail.com](mailto:tightropetool@gmail.com)
 
-[download Adolescent Tightrope]: /downloads/Adolescent%20Tightrope%202022.pdf
+[download Adolescent Tightrope]: /downloads/Adolescent.pdf
 [sample workbook]: /downloads/tightropemodel.pdf
 [OOCD Screening Template 2019.pdf]: /downloads/OOCD%20Screening%20Tightrope%202019.pdf
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
