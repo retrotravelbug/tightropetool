@@ -37,6 +37,10 @@ The toolkit is drawn from research on adolescent risks (youth offending, self-ha
 - guidance to practitioners about the role of the worker, factors to consider in application and how to evaluate progress or impact of the tool
 - a full list of references are provided
 
+## [Download Printable cards]
+
+The cards in the guidance workbook can be printed from the workbook or collectively from here so you can print off, cut out and laminate each card, or page of cards. There are also mats that have all the cards from each area together. 
+  
 ## Reviews <small> - from practitioners</small>
 
 > "I got more in that tightrope in one session than I’d done in 10 weeks working with the young person"  
@@ -73,10 +77,6 @@ The toolkit is drawn from research on adolescent risks (youth offending, self-ha
 ## Out of court format
   
 For Youth Justice practitioners an Out of Court Disposal template has been created and is available here: [OOCD Screening Template 2019.pdf]
-  
-## Printable cards
-
-The cards in the guidance workbook can be printed from the workbook or collectively from here: [printable cards] so you can print off, cut out and laminate each card, or page of cards. There are also mats that have all the cards from each area together. 
 
 ## Workbook for parents
 
@@ -96,7 +96,7 @@ For more information email: [tightropetool@gmail.com](mailto:tightropetool@gmail
 [sample workbook]: /downloads/tightropemodel.pdf
 [OOCD Screening Template 2019.pdf]: /downloads/OOCD%20Screening%20Tightrope%202019.pdf
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
-[printable cards]: /downloads/Cards.pdf
+[download printable cards]: /downloads/CardsA.pdf
 
 > "To be left alone on the tightrope of youthful unknowing is to experience the excruciating beauty of full freedom and the threat of eternal indecision."
 > <small>Maya Angelou</small>
