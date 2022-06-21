@@ -58,20 +58,20 @@ The cards in the guidance workbook can be printed from the workbook or collectiv
 
 # Extras
 
-## Tightrope explained <small> - for young people</small>
+## Tightrope doodle summary <small> - for young people</small>
 
 <small>This video provides a summary of the Tightrope for young people</small>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kQsYBatdOHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Tightrope explained <small> - for practitioners</small>
+## Tightrope doodle summary <small> - for practitioners</small>
 
 <small>This video outlines the aims and explains the developmental theory underpinning the Tightrope</small>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GRhAgx1uSL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Adolescent Development <small> - and how to respond with trauma informed practice
 
-<small>This video is more detailed about adolescent development and how to respond using emotional development and transactional analysis</small>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MG5CC1xmEHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<small>This video is a safeguarding workshop with a more detailed doodle summary about adolescent development and how to respond using emotional development and transactional analysis</small>
+<iframe width="560" height="315" src=" https://youtu.be/CW3pRF1Ct-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   
 ## Out of court format
