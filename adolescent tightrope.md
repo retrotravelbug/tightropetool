@@ -71,7 +71,7 @@ The cards in the guidance workbook can be printed from the workbook or collectiv
 ## Adolescent Development <small> - and how to respond with trauma informed practice
 
 <small>This video is a safeguarding workshop with a more detailed doodle summary about adolescent development and how to respond using emotional development and transactional analysis</small>
-<iframe width="560" height="315" src="https://youtu.be/CW3pRF1Ct-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/CW3pRF1Ct-Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   
 ## Out of court format
