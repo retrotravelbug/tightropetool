@@ -7,7 +7,9 @@ banner-image: Reflection.jpeg
 # Wellbeing Tightrope <small>Balancing on the Tightrope of Life</small>
 
 This has been designed for parents (or anyone with a number of pressures and responsibilities) to understand their own triggers and balancing strengths. 
-- by reflecting on your own tightrope you might discover ways to increased resilience. 
+- by reflecting on your own tightrope you might discover ways to increased self-resilience
+- using the same analogy and features of the tightrope you can explore behaviours that support you to balance or those that are unhelpful
+- this Tightrope also introduces Emotional Freedom Technique (also known as 'tapping') to tap into limiting beliefs and create a space for healing  
 
 ## [Download Wellbeing Tightrope]
 
