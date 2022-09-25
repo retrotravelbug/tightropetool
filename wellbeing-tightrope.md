@@ -9,7 +9,9 @@ banner-image: Reflection.jpeg
 This has been designed for parents (or anyone with a number of pressures and responsibilities) to understand their own triggers and balancing strengths. 
 - by reflecting on your own tightrope you might discover ways to increased resilience. 
 
-## Workbook for parents of adolescents
+## [Download Wellbeing Tightrope]
+
+### Workbook for parents of adolescents
 
 The original use of the tightrope analogy was with parents whose children were open to the Youth Justice service. Using research about supporting parents of adolescents, a basic homemade workbook was created called the [Circus Act] that supports parents to work through exercises that are based on the circus:
 - balancing act, which uses the tightrope analogy and explores the young person's strengths and how the parent provides a safety net that is not too lose or too tight
