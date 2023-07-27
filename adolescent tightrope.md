@@ -42,7 +42,9 @@ The toolkit is drawn from research on adolescent risks (youth offending, self-ha
 The cards in the guidance workbook can be printed from the workbook or collectively from here so you can print off, cut out and laminate each card, or page of cards. There are also mats that have all the cards from each area together. 
 
 ## [Purchase the toolkit with printed cards]
-If you or your team want the hardcopy toolkit with 8 sets of printed cards and two pads with the template form to complete then a few sets are still available from the link above.
+
+If you or your team want the hardcopy toolkit with 8 sets of printed cards and two printed pads with the template form to complete, then a few sets are still available from the link above.
+
 
 ## Reviews <small> - from practitioners</small>
 
@@ -100,7 +102,7 @@ For more information email: [tightropetool@gmail.com](mailto:tightropetool@gmail
 [OOCD Screening Template 2019.pdf]: /downloads/OOCD%20Screening%20Tightrope%202019.pdf
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
 [download printable cards]: /downloads/CardsA.pdf
-[Purchase the toolkit with printed cards]: (https://www.thetightropemethod.com/adolescent-tightrope-order-page)
+[Purchase the toolkit with printed cards]: https://www.thetightropemethod.com/adolescent-tightrope-order-page
 
 > "To be left alone on the tightrope of youthful unknowing is to experience the excruciating beauty of full freedom and the threat of eternal indecision."
 > <small>Maya Angelou</small>
