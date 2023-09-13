@@ -37,15 +37,6 @@ The toolkit is drawn from research on adolescent risks (youth offending, self-ha
 - guidance to practitioners about the role of the worker, factors to consider in application and how to evaluate progress or impact of the tool
 - a full list of references are provided
 
-## [Download Printable cards]
-
-The cards in the guidance workbook can be printed from the workbook or collectively from here so you can print off, cut out and laminate each card, or page of cards. There are also mats that have all the cards from each area together. 
-
-## [Purchase the toolkit with printed cards]
-
-If you or your team want the hardcopy toolkit with 8 sets of printed cards and two printed pads with the template form to complete, then a few sets are still available from the link above.
-
-
 ## Reviews <small> - from practitioners</small>
 
 > "I got more in that tightrope in one session than I’d done in 10 weeks working with the young person"  
@@ -59,6 +50,15 @@ If you or your team want the hardcopy toolkit with 8 sets of printed cards and t
 >
 > "What a can of worms (information) in 10 years I have not managed to gain so much info in one session using such an effective assessment tool. Wow….."  
 > <small>Bail and Remand Officer in Hammersmith and Fulham</small>
+
+
+## [Download Printable cards]
+
+The cards in the guidance workbook can be printed from the workbook or collectively from here so you can print off, cut out and laminate each card, or page of cards. There are also mats that have all the cards from each area together. 
+
+## Hardcopy toolkit
+
+If you or your team want the hardcopy toolkit with 8 sets of printed cards and two printed pads with the template form to complete, then a few sets are still available to purchase from [here].
 
 
 # Extras
@@ -75,8 +75,12 @@ If you or your team want the hardcopy toolkit with 8 sets of printed cards and t
 
 ## Adolescent Brain Development <small> - and how to respond with trauma informed practice
 
-<small>This video provides a more detailed doodle summary about adolescent development and how to respond using emotional development and transactional analysis</small>
+When training workers on the tightrope and Adolescent Development, I will refer to Emotional Development, Trauma Informed Practice and Tranactional Analysis. I will provide the following worksheet and ask workers to look at the behaviours on the far right column and consider if they have seen these in the adolescents or adults they are working with. The behaviours correspond to an emotional age and to a developmental stage of needing to learn certain scripts in regard to feeling wanted, loved, safe and good enough. The far right column provides statements from Transactional Analysis that are powerful ways to connect and calm another's overwhelm. 
+[Emotional Development Worksheet]
+
+The following video provides a more detailed doodle summary about adolescent development and how to respond using emotional development and transactional analysis theories in practice
 <iframe width="560" height="315" src="https://youtube.com/embed/MG5CC1xmEHQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
   
 ## Out of court format
@@ -102,7 +106,8 @@ For more information email: [tightropetool@gmail.com](mailto:tightropetool@gmail
 [OOCD Screening Template 2019.pdf]: /downloads/OOCD%20Screening%20Tightrope%202019.pdf
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
 [download printable cards]: /downloads/CardsA.pdf
-[Purchase the toolkit with printed cards]: https://www.thetightropemethod.com/adolescent-tightrope-order-page
+[Emotional Development Worksheet]: downloads/Emotional_Development.pdf
+[here]: https://www.thetightropemethod.com/adolescent-tightrope-order-page
 
 > "To be left alone on the tightrope of youthful unknowing is to experience the excruciating beauty of full freedom and the threat of eternal indecision."
 > <small>Maya Angelou</small>
