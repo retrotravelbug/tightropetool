@@ -18,15 +18,20 @@ The tightrope has evolved into a framework for anyone facing a number of pressur
 # <small>For the coaching video that accompanies this workbook visit: [thetightropeframework.com] </small> 
 
 ## Emotional Freedom Technique (EFT)
-The Wellbeing version of the Tightrope includes Emotional Freedom Technique (EFT) practice. EFT is also known as 'tapping' because it involves tapping with the finger tips on meridian points around the head, face and upper body to shift your energy system. The process involves talking through the problem until the energey around the problem shifts towrads release. 
+The Wellbeing version of the Tightrope includes Emotional Freedom Technique (EFT) practice. EFT was created by Gary Craig in the 1990s after working with Dr Roger Callahan, who created Thought Field Therapy. Gary describes EFT as a psychological version of accupuncture. 
 
-EFT was created by Gary Craig in the 1990s after working with Dr Roger Callahan, who created Thought Field Therapy. Gary describes EFT as a psychological version of accupuncture. 
+EFT is also known as 'tapping' because it involves tapping with the finger tips on meridian points around the head, face and upper body to shift your energy system. The process involves talking through the problem until the energey around the problem shifts towrads release. 
 
-Tapping can calm anxiety and stress and can address a range of physical and emotional health concerns. EFT is effective at addressing past traumas to support a journey toward recovery. 
+Tapping can calm anxiety and stress and can address a range of physical and emotional health concerns. 
+EFT is effective at addressing past traumas to support a journey toward recovery. 
 
-An EFT tapping script is included in the workbook, along with an image of where the tapping points are on the face and head. You can create your own scripts based on any problem or pressure you are facing - keep tapping until you feel a shift or release.
+An EFT tapping script is included in the workbook, along with an image of where the tapping points are on the face and head. 
 
-This has been the magic wand for my own personal wellbeing improvement journey!
+You can create your own scripts based on any problem or pressure you are facing - keep tapping until you feel a shift or release.
+
+This has been the magic wand for my wellbeing improvement journey!
+
+# <small> We are all on our own personal tightrope </small> 
 
 [download The Tightrope Framework]: /downloads/balancinglife.pdf
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
