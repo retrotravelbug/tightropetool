@@ -68,11 +68,6 @@ If you or your team want the hardcopy toolkit with 8 sets of printed cards and t
 <small>This video provides a summary of the Tightrope for young people</small>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kQsYBatdOHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Tightrope doodle summary <small> - for practitioners</small>
-
-<small>This video outlines the aims and explains the developmental theory underpinning the Tightrope</small>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GRhAgx1uSL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Adolescent Brain Development <small> - and how to respond with trauma informed practice
 
 When training workers on the tightrope and Adolescent Development, I will refer to Emotional Development, Trauma Informed Practice and Tranactional Analysis. I will provide the following worksheet and ask workers to look at the behaviours on the far right column and consider if they have seen these in the adolescents or adults they are working with. The behaviours correspond to an emotional age and to a developmental stage of needing to learn certain scripts in regard to feeling wanted, loved, safe and good enough. The far right column provides statements from Transactional Analysis that are powerful ways to connect and calm another's overwhelm. 
@@ -107,7 +102,7 @@ For more information email: [tightropetool@gmail.com](mailto:tightropetool@gmail
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
 [download printable cards]: /downloads/CardsA.pdf
 [Emotional Development Worksheet]: downloads/Emotional_Development.pdf
-[here]: https://www.thetightropemethod.com/adolescent-tightrope-order-page
+[here]: https://www.robertaevans.com/toolkit
 
 > "To be left alone on the tightrope of youthful unknowing is to experience the excruciating beauty of full freedom and the threat of eternal indecision."
 > <small>Maya Angelou</small>
