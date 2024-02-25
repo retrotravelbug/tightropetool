@@ -27,7 +27,7 @@ The original use of the tightrope analogy was with parents whose children were o
 
 For more information email: [tightropetool@gmail.com](mailto:tightropetool@gmail.com)
 
-[download Wellbeing Tightrope]: /downloads/Balancinglife.pdf
+[download Wellbeing Tightrope]: /downloads/Tightrope Framework Workbook.pdf
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
 
 > "To be left alone on the tightrope of youthful unknowing is to experience the excruciating beauty of full freedom and the threat of eternal indecision."
