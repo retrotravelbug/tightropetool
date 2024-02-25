@@ -15,9 +15,9 @@ The tightrope has evolved into a framework for anyone facing a number of pressur
 ## [Download The Tightrope Framework]
 <small>The latest version was uploaded 25 February 24<small>
 
-For the coaching video that accompanies this workbook visit: [thetightropeframework.com] 
+### For the coaching video that accompanies this workbook visit: [thetightropeframework.com] 
 
-## Emotional Freedom Technique (EFT or 'tapping)
+## Emotional Freedom Technique (EFT)
 The Wellbeing version of the Tightrope includes Emotional Freedom Technique (EFT) practice. EFT is also known as 'tapping' because it involves tapping with the finger tips on meridian points around the head, face and upper body to shift your energy system. The process involves talking through the problem until the energey around the problem shifts towrads release. 
 
 EFT was created by Gary Craig in the 1990s after working with Dr Roger Callahan, who created Thought Field Therapy. Gary describes EFT as a psychological version of accupuncture. 
