@@ -15,7 +15,7 @@ The tightrope has evolved into a framework for anyone facing a number of pressur
 ## [Download The Tightrope Framework]
 <small>The latest version was uploaded 25 February 24<small>
 
-# <small>For the coaching video that accompanies this workbook visit:</small> [thetightropeframework.com] 
+# <small>For the coaching video that accompanies this workbook visit: [thetightropeframework.com] </small> 
 
 ## Emotional Freedom Technique (EFT)
 The Wellbeing version of the Tightrope includes Emotional Freedom Technique (EFT) practice. EFT is also known as 'tapping' because it involves tapping with the finger tips on meridian points around the head, face and upper body to shift your energy system. The process involves talking through the problem until the energey around the problem shifts towrads release. 
