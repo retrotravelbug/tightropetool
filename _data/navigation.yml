@@ -8,6 +8,11 @@
   page: /practitioner tightrope.html
   footer: true
 
+- title: Wellbeing Tightrope
+  url: /wellbeing-tightrope
+  page: /wellbeing-tightrope.html
+  footer: true
+
 - title: Publications
   url: /publications
   page: /publications.html
