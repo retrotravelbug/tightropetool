@@ -14,11 +14,13 @@ Then Roberta undertook her doctorate on parenting interventions for crime preven
 
 Following the pilot and then publication of the Tightrope and in collaboration with Richard Swan, the Practitioner Tightrope was developed to support managers in understanding the factors that support or hinder resilience and provides a tool for managers to reflect on these with practitioners. 
 
+After discovering Emotional Freedom Technique, which was to support her own health and wellbeing, Dr Evans certified as a Level 2 EFT Practitioner and has evolved the Tightrope into a framework for anyone that is entering into a process of change or development. 
+
 All products and materials are developed and delivered by Dr Evans, unless stated otherwise. 
 
-[profile]: http://uk.linkedin.com/pub/roberta-evans/25/b37/907
+[profile]: http://robertaevans.com
 
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
 
-> "A well developed sense of humour is the pole that adds balance to your steps as you walk the tightrope of life."
-> <small>William Arthur Ward</small>
+> "Life can be a bore if you're constantly walking sidewalks instead of a tightrope once in a while."
+> <small>Larry Wilcox</small>
