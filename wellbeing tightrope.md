@@ -14,22 +14,11 @@ The tightrope has evolved into a framework for anyone facing a number of pressur
 
 ## [Download The Tightrope Framework]
 
-### If you are a parent of an adolescent
-
-The original use of the tightrope analogy was with parents whose children were open to the Youth Justice service. Using research about supporting parents of adolescents, a basic homemade workbook was created called the [Circus Act] that supports parents to work through exercises that are based on the circus:
-- balancing act, which uses the tightrope analogy and explores the young person's strengths and how the parent provides a safety net that is not too lose or too tight
-- backstage - chronology direct work tool that recognises that the young person and parent may have different perceptions about the same family experiences
-- hall of mirrors to understand the parent's own experiences of being parented
-- jugglig act to identify the number of tasks and responsibilities the parent is having to juggle and what they could let go
-- seal act to understand what stress and pressure the young person is faced with
-- lion tamer to support boundaries and rule setting, with negotiation
-- knife throwing to support fair and balanced arguments
-- Magicians tricks, the magic wand of parenting - having fun and special time with their child
-
-For more information email: [tightropetool@gmail.com](mailto:tightropetool@gmail.com)
+For the coaching video that accompanies this workbook visit: [thetightropeframework.com] 
 
 [download The Tightrope Framework]: /downloads/balancinglife.pdf
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
+[thetightropeframework.com]: https://thetightropeframework.com
 
 > "A well developed sense of humour is the pole that adds balance to your steps as you walk the tightrope of life."
 > <small>William Arthur Ward</small>
