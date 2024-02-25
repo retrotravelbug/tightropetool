@@ -31,5 +31,5 @@ For more information email: [tightropetool@gmail.com](mailto:tightropetool@gmail
 [download The Tightrope Framework]: /downloads/balancinglife.pdf
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
 
-> "To be left alone on the tightrope of youthful unknowing is to experience the excruciating beauty of full freedom and the threat of eternal indecision."
-> <small>Maya Angelou</small>
+> "A well developed sense of humour is the pole that adds balance to your steps as you walk the tightrope of life."
+> <small>William Arthur Ward</small>
