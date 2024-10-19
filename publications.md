@@ -28,7 +28,7 @@ This post was in response to a colleague's question asking how these popular fra
 
 
 [ACE Contextual]: https://www.linkedin.com/pulse/how-do-aces-contextual-safeguarding-fit-together-using-roberta-evans/
-[parenting-orders]: http://yjj.sagepub.com/content/12/2/118.abstract
+[parenting-orders]: [http://yjj.sagepub.com/content/12/2/118.abstract](https://journals.sagepub.com/doi/10.1177/1473225412447163)
 [Backstop listen]: http://media.wix.com/ugd/03d98d_aa012ae8a413456d9d78fbbfc2c91753.pdf
 [Introducing Tightrope]: http://howardleague.org/wp-content/uploads/2016/04/HLWP_18_2015.pdf
 [chapter]: https://bristoluniversitypressdigital.com/edcollchap-oa/book/9781447369127/ch012.xml
